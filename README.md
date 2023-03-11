@@ -36,7 +36,7 @@ consumer each item only once. The elasped time match with the ps output
 ### Test Case-5
 ./test.sh 1000 50 1 1 25
 ![tc5](https://user-images.githubusercontent.com/123608796/219264375-e85edc4b-242d-4165-adab-1d96af1e2734.png)
-###Test Case-6
+### Test Case-6
 ./test.sh 1000 50 1 3 25
 ![tc6](https://user-images.githubusercontent.com/123608796/219264448-796987ad-221c-453c-a18a-76d5458d839f.png)
 # Code
