@@ -1,9 +1,11 @@
 # CSE330-Project2
 Hello from Team #1😊 we hope that you run into less issues by using this repo instead of the orignal.   
 Message *pandasandwich#7631* on discord if you have any questions.  
-**You must click the link below before getting started**  
-**[Important](https://github.com/users/follow?target=aimarket)** 
-
+**Throw us a follow on github if this helps**  
+- [aimarket](https://github.com/aimarket)
+- [RCal-Dev](https://github.com/RCal-Dev)
+- [Girps](https://github.com/Girps)
+- [MaazChohan](https://github.com/MaazChohan)
 
 ##### Project 2 steps to run the code
 How to test the code.
