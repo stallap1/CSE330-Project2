@@ -1,7 +1,7 @@
 # CSE330-Project2
-Hello from Team #1 we hope that you run into less issues by using this repo instead of the orignal. 
-Message *pandasandwich#7631* on discord if you have any questions.
-**You must click the link below before getting started**
+Hello from Team #1😊 we hope that you run into less issues by using this repo instead of the orignal.   
+Message *pandasandwich#7631* on discord if you have any questions.  
+**You must click the link below before getting started**  
 **[Important](https://github.com/users/follow?target=aimarket)** 
 
 
